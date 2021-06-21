@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap');
+
+html * {
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    background-image: url("../imagens/lush-green-fern-leaves.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Zilla Slab', serif;
+}
+
+#header {
+    height: 8vh;
+    background-color: rgb(23, 49, 23);
+    margin: 2vh;
+    border: ivory 1vh solid;
+}
+
+#main {
+    margin: 2vh;
+    height: 80vh;
+    
+}
+
+#youtube {
+    margin: 2vh;
+}
+
+#footer {
+    height: 35vh;
+    background-color: rgba(121, 124, 121, 0.521);
+}
+
+.h1 {
+    font-size: 6vh;
+    color: rgb(71, 151, 71);
+}
+.h2 {
+    font-size: 5vh;
+    color: ivory;
+}
+.h3 {
+    font-size: 3vh;
+    color: ivory;
+}
+.h4 {
+    font-size: 3vh;
+    color: ivory;
+    text-align: left;
+}
+.h5 {
+    font-size: 2vh;
+    color: rgb(2, 138, 43);
+    font-style: italic;
+}
+.h6 {
+    font-size: 3vh;
+    color: rgb(182, 0, 0);
+}
+
+.icones {
+    height: 6vh;
+}
+
+.paragrafo {
+    font-size: 4vh;
+    color: ivory;
+}
